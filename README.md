@@ -1,1 +1,1 @@
-# Full-Stack-MERN-pagination
+# Full Stack MERN pagination
